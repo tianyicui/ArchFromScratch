@@ -1,0 +1,15 @@
+[submodule "projects.archlinux.org/abs"]
+	path = projects.archlinux.org/abs
+	url = git://projects.archlinux.org/abs.git
+[submodule "projects.archlinux.org/aif"]
+	path = projects.archlinux.org/aif
+	url = git://projects.archlinux.org/aif.git
+[submodule "projects.archlinux.org/devtools"]
+	path = projects.archlinux.org/devtools
+	url = git://projects.archlinux.org/devtools.git
+[submodule "projects.archlinux.org/srcpac"]
+	path = projects.archlinux.org/srcpac
+	url = git://projects.archlinux.org/srcpac.git
+[submodule "projects.archlinux.org/pacman"]
+	path = projects.archlinux.org/pacman
+	url = git://projects.archlinux.org/pacman.git
